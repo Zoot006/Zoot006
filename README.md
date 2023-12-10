@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zoot006
 - 👀 I’m interested in making games/apps/software, FOSS, productivity, and reading!
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on absolutly nothing
 - 📫 How to reach me: @zoot006@mastodon.social
 
